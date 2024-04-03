@@ -31,3 +31,18 @@ But in your case, you can specifically download the 20.12.1 node version using:
 ```
 choco install nodejs --version="20.12.1"
 ```
+
+### Clone this project
+```
+git clone https://github.com/MDIVS/nlw-2024-pass-in-web.git # clone this repo
+
+cd nlw-2024-pass-in-web # access project folder
+
+npm i # install dependencies
+```
+
+### Running
+Now you problably are ready to go with
+```
+npm run dev
+```
