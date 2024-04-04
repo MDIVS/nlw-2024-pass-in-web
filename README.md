@@ -68,6 +68,11 @@ We are using [Tailwind](https://tailwindcss.com/) here to improve stylization pr
 
 Also, if using VS Code, it is recommended to install the [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) extension.
 
+After installing Tailwind, execute this Tailwind Merge installation for easily merge styles:
+```
+npm i tailwind-merge
+```
+
 ### Lucide React
 Icons, icons and more icons (IN SVG!!!!!!)
 ```
