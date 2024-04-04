@@ -68,3 +68,8 @@ We are using [Tailwind](https://tailwindcss.com/) here to improve stylization pr
 
 Also, if using VS Code, it is recommended to install the [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) extension.
 
+### Lucide React
+Icons, icons and more icons (IN SVG!!!!!!)
+```
+npm i lucide-react
+```
