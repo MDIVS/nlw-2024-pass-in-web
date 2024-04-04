@@ -78,3 +78,19 @@ Icons, icons and more icons (IN SVG!!!!!!)
 ```
 npm i lucide-react
 ```
+
+### Faker
+Used to fake database data allowing us to test our project before connect it into an api.
+
+Install it as a Dev Dependency.
+```
+npm install @faker-js/faker --save-dev
+```
+
+### Dayjs
+Used to handle data with localization.
+
+Install it by running:
+```
+npm i dayjs
+```
