@@ -46,3 +46,25 @@ Now you problably are ready to go with
 ```
 npm run dev
 ```
+
+# How was it made
+### Getting ready
+To create a new project, just type
+```
+npm create vite@latest
+```
+
+Enter the `Project Name`, then select `React` and `TypeScript`.
+
+This will create the project in the folder with the specified project name. Now you can open the folder and install dependencies.
+
+```
+cd <PROJECT_NAME>
+npm i
+```
+
+### Tailwind
+We are using [Tailwind](https://tailwindcss.com/) here to improve stylization productivity. To install tailwind in a Vite project follow [this tutorial](https://tailwindcss.com/docs/guides/vite).
+
+Also, if using VS Code, it is recommended to install the [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) extension.
+
