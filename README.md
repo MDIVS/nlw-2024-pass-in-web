@@ -1,4 +1,4 @@
-# Pass in web
+# NLW Unite - React
 Project made during the Next Level Week led by [Diego Fernandes](https://github.com/diego3g) from [Rocketseat](https://www.rocketseat.com.br) team between 01/04/2024 and 05/04/2024.
 
 # How to run (in windows)
